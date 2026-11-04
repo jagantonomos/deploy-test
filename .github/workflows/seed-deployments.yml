@@ -1,0 +1,58 @@
+name: Seed deployments
+
+# Creates test deployment history: several environments, with a mix of
+# success / failure / error statuses. Run it from Actions > Seed deployments > Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many deployments to create"
+        type: number
+        default: 20
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      COUNT: ${{ inputs.count }}
+    steps:
+      - name: Create deployments
+        run: |
+          envs=(production staging qa)
+          run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+
+          for i in $(seq 1 "$COUNT"); do
+            env=${envs[$((RANDOM % 3))]}
+
+            id=$(jq -n \
+                  --arg ref "$GITHUB_SHA" \
+                  --arg env "$env" \
+                  --arg desc "Seed deployment $i to $env" \
+                  '{ref: $ref, environment: $env, description: $desc,
+                    auto_merge: false, required_contexts: [],
+                    production_environment: ($env == "production")}' \
+                 | gh api "repos/$GITHUB_REPOSITORY/deployments" --input - --jq .id)
+
+            gh api "repos/$GITHUB_REPOSITORY/deployments/$id/statuses" \
+              -f state=in_progress -f log_url="$run_url" > /dev/null
+
+            r=$((RANDOM % 10))
+            if   [ $r -lt 7 ]; then final=success
+            elif [ $r -lt 9 ]; then final=failure
+            else                    final=error
+            fi
+
+            gh api "repos/$GITHUB_REPOSITORY/deployments/$id/statuses" \
+              -f state="$final" \
+              -f description="Seed run $i finished: $final" \
+              -f log_url="$run_url" > /dev/null
+
+            echo "Deployment $id -> $env -> $final"
+            sleep 1
+          done
