@@ -1,0 +1,98 @@
+{
+  "requestId": "mock-users",
+  "records": {
+    "totalRecords": 8,
+    "currentPageSize": 8,
+    "currentPageNumber": 0
+  },
+  "users": [
+    {
+      "id": "620927200828250049",
+      "emailAddress": "olivia.grant@example.com",
+      "firstName": "Olivia",
+      "lastName": "Grant",
+      "title": "VP Sales",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-09-19T09:00:00Z",
+      "managerId": null
+    },
+    {
+      "id": "312898879683521401",
+      "emailAddress": "noah.patel@example.com",
+      "firstName": "Noah",
+      "lastName": "Patel",
+      "title": "Sales Manager",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-09-17T09:00:00Z",
+      "managerId": "620927200828250049"
+    },
+    {
+      "id": "807846338624093817",
+      "emailAddress": "emma.clarke@example.com",
+      "firstName": "Emma",
+      "lastName": "Clarke",
+      "title": "Account Executive",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-03-11T09:00:00Z",
+      "managerId": "312898879683521401"
+    },
+    {
+      "id": "449797840904777158",
+      "emailAddress": "liam.okafor@example.com",
+      "firstName": "Liam",
+      "lastName": "Okafor",
+      "title": "Account Executive",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-03-11T09:00:00Z",
+      "managerId": "312898879683521401"
+    },
+    {
+      "id": "899480137017981376",
+      "emailAddress": "mia.fischer@example.com",
+      "firstName": "Mia",
+      "lastName": "Fischer",
+      "title": "Account Executive",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-01-19T09:00:00Z",
+      "managerId": "312898879683521401"
+    },
+    {
+      "id": "556741356349490996",
+      "emailAddress": "lucas.moreau@example.com",
+      "firstName": "Lucas",
+      "lastName": "Moreau",
+      "title": "Sales Development Rep",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-08-19T09:00:00Z",
+      "managerId": "312898879683521401"
+    },
+    {
+      "id": "281578326575091000",
+      "emailAddress": "ava.tanaka@example.com",
+      "firstName": "Ava",
+      "lastName": "Tanaka",
+      "title": "Customer Success Manager",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-01-18T09:00:00Z",
+      "managerId": "620927200828250049"
+    },
+    {
+      "id": "168657754032280459",
+      "emailAddress": "ethan.silva@example.com",
+      "firstName": "Ethan",
+      "lastName": "Silva",
+      "title": "Solutions Engineer",
+      "phoneNumber": null,
+      "active": true,
+      "created": "2025-01-13T09:00:00Z",
+      "managerId": "620927200828250049"
+    }
+  ]
+}

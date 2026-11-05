@@ -1,0 +1,2400 @@
+{
+  "requestId": "mock-transcripts",
+  "records": {
+    "totalRecords": 25,
+    "currentPageSize": 25,
+    "currentPageNumber": 0
+  },
+  "callTranscripts": [
+    {
+      "callId": "838206077758223174",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 8364,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 8864,
+              "end": 15196,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-86375231",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 15696,
+              "end": 20776,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 21276,
+              "end": 26157,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 26657,
+              "end": 32024,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 32524,
+              "end": 36408,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 36908,
+              "end": 40791,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 41291,
+              "end": 46674,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-86375231",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 47174,
+              "end": 55784,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "825712105221994510",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 5724,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 6224,
+              "end": 12583,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-48841099",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 13083,
+              "end": 18101,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 18601,
+              "end": 22091,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-48841099",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 22591,
+              "end": 31178,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "585098196793891904",
+      "transcript": [
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 4726,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-78338341",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 5226,
+              "end": 13483,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 13983,
+              "end": 17804,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 18304,
+              "end": 22502,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 23002,
+              "end": 26080,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 26580,
+              "end": 34579,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-78338341",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 35079,
+              "end": 38680,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 39180,
+              "end": 42918,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 43418,
+              "end": 48408,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 48908,
+              "end": 56833,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 57333,
+              "end": 63377,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-78338341",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 63877,
+              "end": 71687,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "803794969795327986",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 6180,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 6680,
+              "end": 14624,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 15124,
+              "end": 21576,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-28271005",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 22076,
+              "end": 25393,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 25893,
+              "end": 34664,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-28271005",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 35164,
+              "end": 43050,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 43550,
+              "end": 48953,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 49453,
+              "end": 53016,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 53516,
+              "end": 58387,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 58887,
+              "end": 66469,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "574342528698148005",
+      "transcript": [
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 6021,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 6521,
+              "end": 14208,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-15372399",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 14708,
+              "end": 18841,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 19341,
+              "end": 25052,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 25552,
+              "end": 29701,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 30201,
+              "end": 33488,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 33988,
+              "end": 40877,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-15372399",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 41377,
+              "end": 44551,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 45051,
+              "end": 48602,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 49102,
+              "end": 54650,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "505637096816248081",
+      "transcript": [
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 7692,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 8192,
+              "end": 16311,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-58094482",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 16811,
+              "end": 24584,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 25084,
+              "end": 33071,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        },
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 33571,
+              "end": 41809,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-58094482",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 42309,
+              "end": 51274,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 51774,
+              "end": 57956,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "201148389368779985",
+      "transcript": [
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 8407,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 8907,
+              "end": 14002,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 14502,
+              "end": 20516,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-23014747",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 21016,
+              "end": 29027,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 29527,
+              "end": 36773,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 37273,
+              "end": 43078,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 43578,
+              "end": 48556,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 49056,
+              "end": 55371,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-23014747",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 55871,
+              "end": 64066,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 64566,
+              "end": 70715,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-23014747",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 71215,
+              "end": 75934,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 76434,
+              "end": 80536,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 81036,
+              "end": 89862,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "821421672622500919",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 3611,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 4111,
+              "end": 7368,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-46359874",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 7868,
+              "end": 16424,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 16924,
+              "end": 22825,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 23325,
+              "end": 31643,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 32143,
+              "end": 39763,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-46359874",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 40263,
+              "end": 46988,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 47488,
+              "end": 50690,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 51190,
+              "end": 55344,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-46359874",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 55844,
+              "end": 59788,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 60288,
+              "end": 64181,
+              "text": "Our IT security team will want to review the data handling."
+            },
+            {
+              "start": 64681,
+              "end": 72066,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 72566,
+              "end": 81173,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "141706948715079801",
+      "transcript": [
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 8712,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 9212,
+              "end": 16311,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 16811,
+              "end": 21115,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-99764607",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 21615,
+              "end": 27977,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 28477,
+              "end": 35167,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-99764607",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 35667,
+              "end": 38722,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 39222,
+              "end": 46727,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 47227,
+              "end": 55573,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "556741356349490996",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 56073,
+              "end": 61747,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 62247,
+              "end": 66925,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-99764607",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 67425,
+              "end": 72409,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "142813587276731803",
+      "transcript": [
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 3232,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 3732,
+              "end": 7256,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-58586077",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 7756,
+              "end": 15123,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 15623,
+              "end": 19840,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 20340,
+              "end": 29267,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-58586077",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 29767,
+              "end": 37509,
+              "text": "Our IT security team will want to review the data handling."
+            },
+            {
+              "start": 38009,
+              "end": 41713,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 42213,
+              "end": 49527,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 50027,
+              "end": 55404,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-58586077",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 55904,
+              "end": 60250,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 60750,
+              "end": 67962,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            },
+            {
+              "start": 68462,
+              "end": 76049,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "414704230398274552",
+      "transcript": [
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 3040,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 3540,
+              "end": 9628,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 10128,
+              "end": 17537,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-57394703",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 18037,
+              "end": 25493,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            },
+            {
+              "start": 25993,
+              "end": 33604,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        },
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 34104,
+              "end": 42764,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-57394703",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 43264,
+              "end": 50023,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 50523,
+              "end": 56833,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 57333,
+              "end": 62350,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "583695820378667731",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 3186,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 3686,
+              "end": 8276,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 8776,
+              "end": 13637,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-40001640",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 14137,
+              "end": 23064,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 23564,
+              "end": 28566,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 29066,
+              "end": 36159,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-40001640",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 36659,
+              "end": 43840,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 44340,
+              "end": 48959,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 49459,
+              "end": 56803,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 57303,
+              "end": 60493,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "805254931077935917",
+      "transcript": [
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 5587,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-82390096",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 6087,
+              "end": 10874,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 11374,
+              "end": 15471,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-82390096",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 15971,
+              "end": 19693,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 20193,
+              "end": 26370,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 26870,
+              "end": 33431,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 33931,
+              "end": 42705,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 43205,
+              "end": 47848,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 48348,
+              "end": 56492,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-82390096",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 56992,
+              "end": 61638,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "222409512059088090",
+      "transcript": [
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 4552,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-73603393",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 5052,
+              "end": 9465,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 9965,
+              "end": 18477,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 18977,
+              "end": 26726,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-73603393",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 27226,
+              "end": 34011,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 34511,
+              "end": 38303,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 38803,
+              "end": 45005,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 45505,
+              "end": 51409,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 51909,
+              "end": 56630,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 57130,
+              "end": 63186,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-73603393",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 63686,
+              "end": 68170,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 68670,
+              "end": 74702,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 75202,
+              "end": 79800,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "397758403595095464",
+      "transcript": [
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 4091,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 4591,
+              "end": 12005,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-95659449",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 12505,
+              "end": 16992,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 17492,
+              "end": 22186,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 22686,
+              "end": 28485,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-95659449",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 28985,
+              "end": 32071,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 32571,
+              "end": 37472,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "840481436601180852",
+      "transcript": [
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 3186,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 3686,
+              "end": 11727,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 12227,
+              "end": 17168,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-97822608",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 17668,
+              "end": 24803,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 25303,
+              "end": 29904,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 30404,
+              "end": 34210,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-97822608",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 34710,
+              "end": 40502,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 41002,
+              "end": 48429,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 48929,
+              "end": 56581,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 57081,
+              "end": 60897,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 61397,
+              "end": 68037,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-97822608",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 68537,
+              "end": 76432,
+              "text": "Our IT security team will want to review the data handling."
+            },
+            {
+              "start": 76932,
+              "end": 80301,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 80801,
+              "end": 85111,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 85611,
+              "end": 92670,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "789253381256546485",
+      "transcript": [
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 5209,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 5709,
+              "end": 11031,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 11531,
+              "end": 20401,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-42944780",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 20901,
+              "end": 24015,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 24515,
+              "end": 27865,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 28365,
+              "end": 32647,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 33147,
+              "end": 41753,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-42944780",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 42253,
+              "end": 48511,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 49011,
+              "end": 56776,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 57276,
+              "end": 62108,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-42944780",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 62608,
+              "end": 67604,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 68104,
+              "end": 75391,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        },
+        {
+          "speakerId": "281578326575091000",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 75891,
+              "end": 80899,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "278384781643451105",
+      "transcript": [
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 7923,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 8423,
+              "end": 16662,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-26115335",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 17162,
+              "end": 24510,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            },
+            {
+              "start": 25010,
+              "end": 29132,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 29632,
+              "end": 36573,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-26115335",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 37073,
+              "end": 44229,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 44729,
+              "end": 50671,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 51171,
+              "end": 59782,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 60282,
+              "end": 67909,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 68409,
+              "end": 76256,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-26115335",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 76756,
+              "end": 81310,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            }
+          ]
+        },
+        {
+          "speakerId": "807846338624093817",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 81810,
+              "end": 86415,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 86915,
+              "end": 90238,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 90738,
+              "end": 94235,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "420844663611815014",
+      "transcript": [
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 4923,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 5423,
+              "end": 11480,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 11980,
+              "end": 18900,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-87969783",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 19400,
+              "end": 25215,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 25715,
+              "end": 29807,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 30307,
+              "end": 36971,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-87969783",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 37471,
+              "end": 44111,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 44611,
+              "end": 48845,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 49345,
+              "end": 53602,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "632668463011207717",
+      "transcript": [
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 7652,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 8152,
+              "end": 16766,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 17266,
+              "end": 22714,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-19571718",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 23214,
+              "end": 28754,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 29254,
+              "end": 37948,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-19571718",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 38448,
+              "end": 47133,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 47633,
+              "end": 52950,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 53450,
+              "end": 58242,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 58742,
+              "end": 62703,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 63203,
+              "end": 72013,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-19571718",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 72513,
+              "end": 81141,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 81641,
+              "end": 88229,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 88729,
+              "end": 94225,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 94725,
+              "end": 100998,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "774238497699572618",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 7428,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 7928,
+              "end": 15770,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-75002255",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 16270,
+              "end": 20005,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 20505,
+              "end": 23687,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 24187,
+              "end": 31411,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-75002255",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 31911,
+              "end": 39559,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 40059,
+              "end": 46522,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 47022,
+              "end": 54789,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 55289,
+              "end": 60791,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-75002255",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 61291,
+              "end": 67031,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "586592764900087327",
+      "transcript": [
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 6230,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 6730,
+              "end": 12497,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-66378878",
+          "topic": "Next steps",
+          "sentences": [
+            {
+              "start": 12997,
+              "end": 17116,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 17616,
+              "end": 24614,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            },
+            {
+              "start": 25114,
+              "end": 34019,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            }
+          ]
+        },
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 34519,
+              "end": 40882,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-66378878",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 41382,
+              "end": 47478,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 47978,
+              "end": 55412,
+              "text": "I'll send over a proposal and a recap by end of day."
+            },
+            {
+              "start": 55912,
+              "end": 59111,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-66378878",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 59611,
+              "end": 62694,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            },
+            {
+              "start": 63194,
+              "end": 67094,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 67594,
+              "end": 74038,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "589928424365420435",
+      "transcript": [
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 8986,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 9486,
+              "end": 14972,
+              "text": "I'll send over a proposal and a recap by end of day."
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-16826104",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 15472,
+              "end": 18982,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        },
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 19482,
+              "end": 27266,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-16826104",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 27766,
+              "end": 31656,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 32156,
+              "end": 36667,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 37167,
+              "end": 42095,
+              "text": "Who else would be involved in evaluating this?"
+            },
+            {
+              "start": 42595,
+              "end": 51470,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 51970,
+              "end": 59842,
+              "text": "Who else would be involved in evaluating this?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-16826104",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 60342,
+              "end": 64857,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 65357,
+              "end": 71654,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            }
+          ]
+        },
+        {
+          "speakerId": "168657754032280459",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 72154,
+              "end": 79645,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 80145,
+              "end": 87653,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 88153,
+              "end": 93286,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "254828442604449430",
+      "transcript": [
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 8386,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-69469802",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 8886,
+              "end": 14929,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 15429,
+              "end": 20448,
+              "text": "Our IT security team will want to review the data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Product",
+          "sentences": [
+            {
+              "start": 20948,
+              "end": 25236,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 25736,
+              "end": 30021,
+              "text": "Does a pilot starting next month work for your timeline?"
+            },
+            {
+              "start": 30521,
+              "end": 36157,
+              "text": "Can you walk me through how your team handles this today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-69469802",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 36657,
+              "end": 40731,
+              "text": "Our IT security team will want to review the data handling."
+            },
+            {
+              "start": 41231,
+              "end": 49305,
+              "text": "Our main concern is integration with our existing CRM."
+            },
+            {
+              "start": 49805,
+              "end": 57031,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "899480137017981376",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 57531,
+              "end": 65215,
+              "text": "Does a pilot starting next month work for your timeline?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-69469802",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 65715,
+              "end": 70388,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "640332486821268045",
+      "transcript": [
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 0,
+              "end": 4538,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-72650786",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 5038,
+              "end": 8783,
+              "text": "That timeline could work if legal turns the contract around quickly."
+            },
+            {
+              "start": 9283,
+              "end": 15889,
+              "text": "Right now it's mostly spreadsheets and a lot of manual follow-up."
+            },
+            {
+              "start": 16389,
+              "end": 19693,
+              "text": "Pricing is a bit above what we budgeted for this year."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 20193,
+              "end": 27241,
+              "text": "Can you walk me through how your team handles this today?"
+            },
+            {
+              "start": 27741,
+              "end": 33292,
+              "text": "That's a common challenge we hear, let me show you how other teams solved it."
+            },
+            {
+              "start": 33792,
+              "end": 39337,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-72650786",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 39837,
+              "end": 45341,
+              "text": "We need to see a clear ROI before procurement signs off."
+            },
+            {
+              "start": 45841,
+              "end": 54306,
+              "text": "Our IT security team will want to review the data handling."
+            },
+            {
+              "start": 54806,
+              "end": 58355,
+              "text": "Our main concern is integration with our existing CRM."
+            }
+          ]
+        },
+        {
+          "speakerId": "449797840904777158",
+          "topic": "Introduction",
+          "sentences": [
+            {
+              "start": 58855,
+              "end": 63006,
+              "text": "Thanks for making time today, how has the quarter been going?"
+            },
+            {
+              "start": 63506,
+              "end": 71975,
+              "text": "What would success look like for you in six months?"
+            },
+            {
+              "start": 72475,
+              "end": 81011,
+              "text": "What would success look like for you in six months?"
+            }
+          ]
+        },
+        {
+          "speakerId": "cust-72650786",
+          "topic": "Pain points",
+          "sentences": [
+            {
+              "start": 81511,
+              "end": 88158,
+              "text": "Honestly it's been busy, we're trying to consolidate tools."
+            },
+            {
+              "start": 88658,
+              "end": 94747,
+              "text": "Our IT security team will want to review the data handling."
+            },
+            {
+              "start": 95247,
+              "end": 104063,
+              "text": "We need to see a clear ROI before procurement signs off."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
